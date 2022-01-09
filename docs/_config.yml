@@ -20,9 +20,9 @@
 
 title: Tap Soup Studios
 email: contact@tapsoupstudios.com
-baseurl: "/Tap-Soup-Studios.github.io/" # the subpath of your site, e.g. /blog
-url: "http://Tap-Soup-Studios.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: Tap-Soup-Studios
+domain: Tap-Soup-Studios.github.io
+url: "https://Tap-Soup-Studios.github.io"
+baseurl: "/Tap-Soup-Studios.github.io/"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
