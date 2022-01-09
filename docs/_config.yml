@@ -20,8 +20,8 @@
 
 title: Tap Soup Studios
 email: contact@tapsoupstudios.com
-baseurl: "/docs/" # the subpath of your site, e.g. /blog
-url: "https://tapsoupstudios.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Tap-Soup-Studios.github.io/" # the subpath of your site, e.g. /blog
+url: "http://Tap-Soup-Studios.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Tap-Soup-Studios
 
 # Build settings
