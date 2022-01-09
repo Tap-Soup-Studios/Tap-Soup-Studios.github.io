@@ -20,9 +20,10 @@
 
 title: Tap Soup Studios
 email: contact@tapsoupstudios.com
-domain: tap-soup-studios.github.io
+# domain: tap-soup-studios.github.io
 url: "https://tap-soup-studios.github.io"
-baseurl: "/tap-soup-studios.github.io/"
+baseurl: "/tap-soup-studios.github.io"
+# repository: "tap-soup-studios/tap-soup-studios.github.io"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
