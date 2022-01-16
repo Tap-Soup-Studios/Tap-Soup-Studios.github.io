@@ -13,7 +13,6 @@ permalink: /apps/
 **Roll your dice to the top of the leaderboards!**
 
 Farkle Frenzy is the most fun and casual way to enjoy the classic dice game on your iOS device!
-Farkle Frenzy can be played solo against a computer, or against a friend on the same device.
 Compete with others on single player leaderboards to earn the highest score!
 
 <div class="align-center" style="padding-bottom: 32px">
