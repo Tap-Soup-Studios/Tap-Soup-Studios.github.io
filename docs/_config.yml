@@ -31,6 +31,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "default", "dark", "d
 include:
   - _pages
   - farkle.png
+  - color_lanes.png
 
 atom_feed:
   hide: true
