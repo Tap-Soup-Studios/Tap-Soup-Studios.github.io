@@ -23,9 +23,9 @@ Compete with others on single player leaderboards to earn the highest score!
 
 ## Color Lanes
 
-<!-- <div class ="align-left" style="width: 100%; padding-bottom: 32px; padding-top: 16px">
-    <a href="https://apps.apple.com/us/app/farkle-frenzy/id1600530164"><img src="{{ site.url }}{{ site.baseurl }}/app_store.svg"></a>
-</div> -->
+<div class ="align-left" style="width: 100%; padding-bottom: 32px; padding-top: 16px">
+    <a href="https://apps.apple.com/us/app/color-lanes-move-quickly/id1606837448"><img src="{{ site.url }}{{ site.baseurl }}/app_store.svg"></a>
+</div>
 
 **Fast Paced Fun!**
 
